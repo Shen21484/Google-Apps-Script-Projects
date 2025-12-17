@@ -18,3 +18,7 @@ Built an automated Google Apps Script tool that:
 
 ### Impact: 
 Enabled the operations team to balance workloads weekly and maximize the operational efficiency of the robotic fleet.
+
+<img width="912" height="560" alt="image" src="https://github.com/user-attachments/assets/c451d68e-7e27-4c22-8111-c4bf927fa3e5" />
+<img width="892" height="547" alt="image" src="https://github.com/user-attachments/assets/cf5c07cc-ddcc-4bb5-aa9a-65835af28884" />
+
